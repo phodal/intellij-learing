@@ -171,6 +171,13 @@
       </item>
     </group>
   </component>
+  <component name="ProjectDictionaryState">
+    <dictionary name="fdhuang">
+      <words>
+        <w>mprint</w>
+      </words>
+    </dictionary>
+  </component>
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/learing.iml" filepath="$PROJECT_DIR$/learing.iml" />
