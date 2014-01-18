@@ -5,7 +5,4 @@ package com.phodal.learing;
  */
 public class Cal2 extends Cal {
 
-    public int sub(int a,int b){
-        return a-b;
-    }
 }
