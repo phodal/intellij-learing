@@ -3,10 +3,10 @@ package com.phodal.learing;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code
-        Cal cal=new Cal();
-        int c=cal.add(1,2);
+        int c=new Cal().add(1,2);
+        int d=new Cal2().sub(2,1);
         System.out.println("Hello,s");
         System.out.println(c);
+        System.out.println(d);
     }
 }
